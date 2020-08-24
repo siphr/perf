@@ -1,3 +1,4 @@
+// compile with -Ofast
 #include <iostream>
 
 int main(int const ac, char const ** av) {
