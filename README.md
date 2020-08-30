@@ -1,4 +1,4 @@
-# Performance Evulation of Various Languages
+# Performance Evaluation of Various Languages
 
 This is a simple benchmarking repository for different interesting languages. The code should be identitical in all. I've started with a simple sum loop.
 
