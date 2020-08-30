@@ -17,3 +17,8 @@ Use the *bench.sh* script to run the scripts/artifacts. For example:
 Or in case of compile languages one can do the following:
 
 * gcc -Ofast src/sum.c && bench.sh 100 ./a.out
+
+## Current Status
+
+The best language right now seems to be *c* in terms of runtime and variance.
+The worst languages right now seem to be php in terms of runtime, followed by Java in terms of variance.
