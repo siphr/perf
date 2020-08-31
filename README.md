@@ -21,4 +21,4 @@ Or in case of compile languages one can do the following:
 ## Current Status
 
 The best language right now seems to be *c* in terms of runtime and variance.
-The worst languages right now seem to be php in terms of runtime, followed by Java in terms of variance.
+The worst languages right now seem to be julia, followed by dart, followed by php in terms of runtime. In terms of variance (consistency) Java is the worst.
