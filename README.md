@@ -16,7 +16,7 @@ Use the *bench.sh* script to run the scripts/artifacts. For example:
 
 Or in case of compile languages one can do the following:
 
-* gcc -Ofast src/sum.c && bench.sh 100 ./a.out
+* gcc -Ofast src/sum.c && bash bench.sh 100 ./a.out
 
 ## Current Status
 
